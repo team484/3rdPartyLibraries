@@ -4,3 +4,5 @@ Pathfinder = https://dev.imjac.in/maven/jaci/pathfinder/PathfinderOLD-latest.jso
 CTR-Electronics (for Talon SRX) = http://devsite.ctr-electronics.com/maven/release/com/ctre/phoenix/Phoenix-latest.json
 
 Rev Robotics (for Spark Max/Neo) = https://www.revrobotics.com/content/sw/max/sdk/REVRobotics.json
+
+ADIS16448 IMU = http://maven.highcurrent.io/vendordeps/ADIS16448.json
